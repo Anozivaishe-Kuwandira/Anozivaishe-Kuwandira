@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kayz</h1>
-<h3 align="center">A passionate web and mobile developer from Zimbabwe</h3>
+<h3 align="center">A passionate web and mobile developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayz304&label=Profile%20views&color=0e75b6&style=flat" alt="kayz304" /> </p>
