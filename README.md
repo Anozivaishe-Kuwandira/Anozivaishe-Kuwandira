@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kayz</h1>
+<h1 align="center">Hi 👋, I'm Anozivaishe Kuwandira</h1>
 <h3 align="center">A passionate web and mobile developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
