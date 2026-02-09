@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anozivaishe Kuwandira</h1>
-<h3 align="center">A passionate web and mobile developer</h3>
+<h3 align="center">A Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayz304&label=Profile%20views&color=0e75b6&style=flat" alt="kayz304" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kayz304" target="blank"><img src="https://img.shields.io/twitter/follow/kayz304?logo=twitter&style=for-the-badge" alt="kayz304" /></a> </p>
 
-- 💬 Ask me about **react, flutter, native**
-
-- 📫 How to reach me **anozivaishekuwandira@outlook.com**
+- 📫 How to reach me **0836674632**
 
 - ⚡ Fun fact **Coding is my hobby**
 
